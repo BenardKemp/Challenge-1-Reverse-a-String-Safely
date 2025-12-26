@@ -1,7 +1,7 @@
 # 🐍 Python Challenge #1: Reverse a String Safely
 
 This repository contains a **reference implementation** for **Python Challenge #1** from  
-👉 **SolveWithPython.com**
+👉 [SolveWithPython.com](http:///solvewithpython.com)
 
 The goal of this challenge is to practice **string manipulation**, **edge-case handling**, and **basic Python function design**.
 
