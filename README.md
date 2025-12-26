@@ -48,6 +48,14 @@ Solve it on your own, then come back to compare approaches.
 
 ---
 
+## 🧩 Part of the SolveWithPython Challenge Series
+
+This challenge is part of the Beginner Python Challenges on SolveWithPython.com — designed to help you build confidence through small, focused problems.
+
+Happy coding! 🐍✨
+
+---
+
 ## 🧠 Example
 
 ```python
@@ -60,5 +68,5 @@ reverse_string("")
 reverse_string("a")
 # Output: "a"
 
-'''
+
 
