@@ -23,7 +23,7 @@ Write a Python function that reverses a given string.
 
 ## 🗂 Repository Structure
 .
-├── reverse_string.py      # Reference solution
+├── main.py      # Reference solution
 ├── test_reverse_string.py # Pytest test cases
 ├── README.md
 
